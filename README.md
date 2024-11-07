@@ -28,12 +28,7 @@ git clone https://github.com/ruthlessgoldie/Ttm-fibgradient_binance.git
 cd Ttm-fibgradient_binance
 ```
 
-2. Gerekli paketleri yükleyin:
-```bash
-pip install -r requirements.txt
-```
-
-3. `.env` dosyasını oluşturun ve Binance API anahtarlarınızı ekleyin:
+2. `.env` dosyasını oluşturun ve Binance API anahtarlarınızı ekleyin:
 ```env
 BINANCE_API_KEY=your_api_key
 BINANCE_API_SECRET=your_api_secret
@@ -80,12 +75,7 @@ git clone https://github.com/ruthlessgoldie/Ttm-fibgradient_binance.git
 cd Ttm-fibgradient_binance
 ```
 
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Create `.env` file and add your Binance API keys:
+2. Create `.env` file and add your Binance API keys:
 ```env
 BINANCE_API_KEY=your_api_key
 BINANCE_API_SECRET=your_api_secret
